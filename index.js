@@ -33,7 +33,7 @@ const schema = Joi.object({
         username:"viswajith99",
         password: "Viswajith@2500",
         repeat_password: "Viswajith@2500",
-        birth_year: 2000,
+        birth_year: 1999,
         email:"viswajithharidas0077@gmail.com"
 
     };
